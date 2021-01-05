@@ -1,1 +1,5 @@
-#### ZENG
+#### Notes
+- Git
+- Linux
+- MySQL
+- JavaScript
