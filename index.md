@@ -4,4 +4,4 @@
 - JavaScript
 
 
-2017-2021 self note
+2017-2021
