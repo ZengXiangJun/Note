@@ -1,11 +1,4 @@
-- Git
-
-```js
-var a = 1;
-alert(1);
-
-```
-
 - Linux
+- Git
 - MySQL
 - JavaScript
