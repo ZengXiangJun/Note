@@ -1,4 +1,0 @@
-- Linux
-- Git
-- MySQL
-- JavaScript
